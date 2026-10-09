@@ -2,7 +2,7 @@
 window.CUP_CONFIG = {
   // Paste the Web app URL from Google Apps Script here (it ends with /exec).
   // While this is empty the site runs in DEMO mode: issues stay in your own browser only.
-  apiUrl: "",
+  apiUrl: "https://script.google.com/macros/s/AKfycbypNkpxhSBosCzZP36oH23nGANcFEUeKqBlMpgTbffWDcYqbzNXcnkzZ9mQUAIeakXP/exec",
 
   // Shown on the sign-in screen. The real check is ALLOWED_DOMAIN in Code.gs.
   emailDomain: "lntecc.com",
